@@ -1,4 +1,3 @@
-
 #include "Keyboard.h"
 #include "Mouse.h"
 
@@ -32,7 +31,7 @@ void setup(){
     
     /* ----- Begin-Script -----*/
     
-    /* [Parsed By Duckuino (Licensed under MIT) - for more information visit: https://github.com/Nurrl/Dckuino.js] */    
+   
     delay(400);
 
     delay(defaultDelay);
